@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(194, 126, 226);
+    color: aliceblue;
+    text-align: center; /* Centraliza */
+    margin: 0 auto;
+}
+
+main{
+    background-color: rgb(150, 77, 219);
+    color: black;
+}
